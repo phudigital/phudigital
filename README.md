@@ -18,8 +18,11 @@
 
 ```javascript
 const phuDigital = {
+  name: "Phu Digital",
   role: "Digital Marketing & Development Specialist",
   location: "Vietnam 🇻🇳",
+  email: "phu@pdl.vn",
+  website: "https://pdl.vn",
   focus: [
     "Google Ads Optimization",
     "WordPress Development",
@@ -32,26 +35,9 @@ const phuDigital = {
 
 ### 💼 Chuyên Môn
 
-🎯 **Digital Marketing**
-
-- Google Ads Management & Optimization
-- Conversion Rate Optimization (CRO)
-- Performance Marketing cho SMEs
-- Click Fraud Detection & Prevention
-
-🌐 **Web Development**
-
-- WordPress Custom Development
-- Speed Optimization & Core Web Vitals
-- Technical SEO Implementation
-- E-commerce Solutions
-
-🤖 **Automation & DevOps**
-
-- Server Monitoring & Uptime Tracking
-- Telegram Bot Integration
-- API Development & Integration
-- Workflow Automation
+🎯 **Digital Marketing** - Google Ads Optimization • CRO • Performance Marketing • Click Fraud Prevention  
+🌐 **Web Development** - WordPress • Speed Optimization • Technical SEO • E-commerce  
+🤖 **Automation & DevOps** - Server Monitoring • Telegram Bots • API Integration • Workflow Automation
 
 ---
 
@@ -95,10 +81,6 @@ const phuDigital = {
 <div align="center">
   
 ![Phú Digital's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phudigital&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=FFA500&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phudigital&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phudigital&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E9EF7&ring=FFA500&fire=FFA500&currStreakLabel=2E9EF7)
 
 </div>
 
@@ -146,8 +128,8 @@ _Interactive 360° virtual tours with advanced features_
 
 |    🏢 Công Ty     |                 🔗 Link                  | 📝 Mô Tả                                   |
 | :---------------: | :--------------------------------------: | :----------------------------------------- |
-|  **PDL Agency**   |         [pdl.vn](https://pdl.vn)         | Digital Marketing & Web Development Agency |
-| **360VR Vietnam** |   [360vr.com.vn](https://360vr.com.vn)   | Virtual Tour Solutions                     |
+|  **PDL Agency**   |         [pdl.vn](http://pdl.vn)          | Digital Marketing & Web Development Agency |
+| **360VR Vietnam** |  [360vr.com.vn](https://360vr.com.vn/)   | Virtual Tour Solutions                     |
 |  **Phú Digital**  | [phudigital.com](https://phudigital.com) | Personal Portfolio & Blog                  |
 
 </div>
@@ -158,11 +140,12 @@ _Interactive 360° virtual tours with advanced features_
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Website-phudigital.com-00C7B7?style=for-the-badge)](https://phudigital.com)
-[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge)](mailto:contact@phudigital.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/phudigital)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phudigital)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/phudigital)
+[![Website PDL](https://img.shields.io/badge/🌐_PDL-pdl.vn-00C7B7?style=for-the-badge)](http://pdl.vn)
+[![Website](https://img.shields.io/badge/🌐_Portfolio-phudigital.com-00C7B7?style=for-the-badge)](https://phudigital.com)
+[![Email](https://img.shields.io/badge/📧_Email-phu@pdl.vn-EA4335?style=for-the-badge)](mailto:phu@pdl.vn)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/ptpmkt/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/phudigital)
+[![360VR](https://img.shields.io/badge/🌐_360VR-360vr.com.vn-9B59B6?style=for-the-badge)](https://360vr.com.vn/)
 
 </div>
 
