@@ -1,10 +1,10 @@
 <div align="center">
   
-# 👋 Xin chào, mình là **Phú Digital**
+# 👋 Xin chào, mình là **Phạm Phú** (Phú Digital)
 
-### 🚀 Digital Marketing Expert | 💻 Full-Stack Developer | 🤖 Automation Enthusiast
+### 🌐 Virtual Tour Specialist | 🎯 PPC Marketing Expert | 💻 Solo Entrepreneur
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Google+Ads+Specialist+%F0%9F%8E%AF;WordPress+Developer+%F0%9F%8C%90;Automation+Engineer+%F0%9F%A4%96;Building+Smart+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=360VR+Virtual+Tour+Specialist+%F0%9F%8C%90;PPC+%26+Google+Ads+Expert+%F0%9F%8E%AF;WordPress+Developer+%F0%9F%92%BB;Building+Smart+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/phudigital?style=for-the-badge&logo=github&color=2E9EF7)](https://github.com/phudigital)
 [![GitHub stars](https://img.shields.io/github/stars/phudigital?style=for-the-badge&logo=github&color=FFA500)](https://github.com/phudigital?tab=repositories)
@@ -17,27 +17,35 @@
 ## 🎯 Về Mình
 
 ```javascript
-const phuDigital = {
-  name: "Phu Digital",
-  role: "Digital Marketing & Development Specialist",
-  location: "Vietnam 🇻🇳",
+const phamPhu = {
+  name: "Phạm Phú (Phu Digital)",
+  role: "Solo Entrepreneur - Virtual Tour & PPC Marketing Specialist",
+  location: "TP Thủ Đức, TP Hồ Chí Minh, Vietnam 🇻🇳",
   email: "phu@pdl.vn",
+  phone: "(+84) 961 33 00 88",
   website: "https://pdl.vn",
+  experience: {
+    digitalMarketing: "7+ years",
+    virtualTour: "5+ years",
+  },
   focus: [
-    "Google Ads Optimization",
+    "360° Virtual Tour Solutions",
+    "PPC Marketing (Google Ads, Facebook Ads, TikTok Ads)",
     "WordPress Development",
     "Marketing Automation",
   ],
-  currentlyLearning: ["AI Integration", "Advanced SEO", "Cloud Architecture"],
-  funFact: "Tôi tin rằng automation là chìa khóa để scale mọi business! 🚀",
+  quote:
+    "Đảm bảo thương hiệu được biết đến rộng rãi trên Google, Facebook, TikTok và YouTube",
 };
 ```
 
 ### 💼 Chuyên Môn
 
-🎯 **Digital Marketing** - Google Ads Optimization • CRO • Performance Marketing • Click Fraud Prevention  
-🌐 **Web Development** - WordPress • Speed Optimization • Technical SEO • E-commerce  
-🤖 **Automation & DevOps** - Server Monitoring • Telegram Bots • API Integration • Workflow Automation
+🌐 **Virtual Tour Solutions** - 360° Photography • Flycam 360° • Web 360° • 3D Tour • Panorama  
+🎯 **PPC Marketing** - Google Ads (Search, GDN, Video, Maps) • Facebook Ads • TikTok Ads • YouTube Ads  
+💻 **Web Development** - WordPress CMS • HTML/CSS • Speed Optimization • Technical SEO  
+🎨 **Design & Media** - Photoshop • Illustrator • Video Editing • Content Strategy  
+📊 **Tools & Platforms** - Google Workspace • Analytics • Tag Manager • SEO Tools
 
 ---
 
