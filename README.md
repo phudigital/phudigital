@@ -45,6 +45,7 @@ const phamPhu = {
 🎯 **PPC Marketing** - Google Ads (Search, GDN, Video, Maps) • Facebook Ads • TikTok Ads • YouTube Ads  
 💻 **Web Development** - WordPress CMS • HTML/CSS • Speed Optimization • Technical SEO  
 🎨 **Design & Media** - Photoshop • Illustrator • Video Editing • Content Strategy  
+🤖 **AI-Assisted Development** - Vibe Coding • Automation Tools • Workflow Optimization  
 📊 **Tools & Platforms** - Google Workspace • Analytics • Tag Manager • SEO Tools
 
 ---
