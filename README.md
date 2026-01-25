@@ -12,8 +12,26 @@
 
 <br/><br/>
 
-| <a href="https://360vr.com.vn"><img src="assets/images/360vr-logo.png" width="100" align="left" style="margin-right: 15px" alt="360VR Vietnam"/></a> **[360VR Vietnam](https://360vr.com.vn)**<br>Virtual Tour Platform<br>_Real Estate & Biz_ | <a href="https://pdl.vn"><img src="assets/images/pdl-logo.png" width="100" align="left" style="margin-right: 15px" alt="PDL Solutions"/></a> **[PDL Solutions](https://pdl.vn)**<br>Digital Agency<br>_PPC Ads • Web • Design_ |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <a href="https://360vr.com.vn">
+        <img src="assets/images/360vr-logo.png" width="80" align="left" style="margin-right: 15px;" alt="360VR Vietnam"/>
+      </a>
+      <b><a href="https://360vr.com.vn">360VR Vietnam</a></b><br>
+      Virtual Tour Platform<br>
+      <i>Real Estate & Biz</i>
+    </td>
+    <td width="50%">
+       <a href="https://pdl.vn">
+         <img src="assets/images/pdl-logo.png" width="80" align="left" style="margin-right: 15px;" alt="PDL Solutions"/>
+       </a>
+       <b><a href="https://pdl.vn">PDL Solutions</a></b><br>
+       Digital Agency<br>
+       <i>PPC Ads • Web • Design</i>
+    </td>
+  </tr>
+</table>
 
 </div>
 
