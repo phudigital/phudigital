@@ -4,6 +4,13 @@
 
 <div align="center">
 
+  <img src="assets/images/pdl-logo.png" height="60" alt="PDL Solutions" style="margin-right: 20px"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/images/360vr-logo.png" height="60" alt="360VR Vietnam"/>
+  
+  <br/>
+  <br/>
+
 [![Website](https://img.shields.io/badge/Website-pdl.vn-0072ff?style=flat-square&logo=google-chrome&logoColor=white)](https://pdl.vn)
 [![Website](https://img.shields.io/badge/Website-360vr.com.vn-7b4397?style=flat-square&logo=google-chrome&logoColor=white)](https://360vr.com.vn)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/ptpmkt/)
