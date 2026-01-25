@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Phạm Phú** (Phú Digital)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Virtual+Tour+Specialist+%F0%9F%8C%90;PPC+Marketing+Expert+%F0%9F%8E%AF;Solo+Entrepreneur+%F0%9F%92%BB)](https://git.io/typing-svg)
+### 🌐 Virtual Tour Specialist | 🎯 PPC Marketing Expert | 💻 Solo Entrepreneur
 
 <div align="center">
 
@@ -38,12 +38,12 @@ I am a **Solo Entrepreneur** passionate about combining **Technology** and **Mar
 
 ### 🏆 Featured Projects & Ecosystem
 
-| Project / Service                                       | Description                                             |      Type       |
-| :------------------------------------------------------ | :------------------------------------------------------ | :-------------: |
-| **[PDL Solutions](https://pdl.vn)**                     | Digital Marketing Agency & Web Development              |    💼 Agency    |
-| **[360VR Vietnam](https://360vr.com.vn)**               | Virtual Tour Platform for Real Estate & Business        | 🌐 SaaS/Service |
-| **[Google Ads Toolkit](https://github.com/phudigital)** | WP Plugin for Click Fraud Prevention & Ads Optimization |    🔌 Plugin    |
-| **[Phu Digital](https://phudigital.com)**               | Personal Portfolio & Tech Blog                          |   👤 Personal   |
+| Project / Service                                       | Description                                             |                                                                           Status / Type                                                                            |
+| :------------------------------------------------------ | :------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **[PDL Solutions](https://pdl.vn)**                     | Digital Marketing Agency & Web Development              |        [![PDL](https://img.shields.io/website?url=https%3A%2F%2Fpdl.vn&up_message=Online&style=flat-square&labelColor=0072ff&color=00c6ff)](https://pdl.vn)        |
+| **[360VR Vietnam](https://360vr.com.vn)**               | Virtual Tour Platform for Real Estate & Business        | [![360VR](https://img.shields.io/website?url=https%3A%2F%2F360vr.com.vn&up_message=Online&style=flat-square&labelColor=7b4397&color=dc2430)](https://360vr.com.vn) |
+| **[Google Ads Toolkit](https://github.com/phudigital)** | WP Plugin for Click Fraud Prevention & Ads Optimization |          [![Stars](https://img.shields.io/github/stars/phudigital/phudigital?style=flat-square&label=Stars&color=yellow)](https://github.com/phudigital)           |
+| **[Phu Digital](https://phudigital.com)**               | Personal Portfolio & Tech Blog                          |      [![Last Commit](https://img.shields.io/github/last-commit/phudigital/phudigital?style=flat-square&color=blue)](https://github.com/phudigital/phudigital)      |
 
 ---
 
