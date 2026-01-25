@@ -1,14 +1,16 @@
-# 👋 Hi, I'm **Phạm Phú** (Phú Digital)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Virtual+Tour+Specialist+%F0%9F%8C%90;PPC+Marketing+Expert+%F0%9F%8E%AF;Solo+Entrepreneur+%F0%9F%92%BB)](https://git.io/typing-svg)
-
 <div align="center">
 
-  <img src="assets/images/pdl-logo.png" height="60" alt="PDL Solutions" style="margin-right: 20px"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/images/360vr-logo.png" height="60" alt="360VR Vietnam"/>
-  
+![Header](<https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0072ff,00c6ff,7b4397,dc2430&height=250&section=header&text=Phạm%20Phú%20(Phú%20Digital)&fontSize=40&fontAlign=50&fontAlignY=35&descAlign=50&descAlignY=55&animation=fadeIn&fontColor=ffffff>)
+
+  <div style="margin-top: -30px;">
+    <img src="assets/images/pdl-logo.png" height="50" alt="PDL Solutions" style="margin-right: 15px"/>
+    <img src="assets/images/360vr-logo.png" height="50" alt="360VR Vietnam"/>
+  </div>
+
   <br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0072FF&center=true&vCenter=true&width=600&lines=Virtual+Tour+Specialist+%F0%9F%8C%90;PPC+Marketing+Expert+%F0%9F%8E%AF;Solo+Entrepreneur+%F0%9F%92%BB)](https://git.io/typing-svg)
+
   <br/>
 
 [![Website](https://img.shields.io/badge/Website-pdl.vn-0072ff?style=flat-square&logo=google-chrome&logoColor=white)](https://pdl.vn)
