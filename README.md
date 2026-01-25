@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<table width="100%">
+<table width="90%">
   <tr>
     <td width="50%">
       <a href="https://360vr.com.vn">
