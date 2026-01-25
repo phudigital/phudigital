@@ -11,15 +11,12 @@
 [![GitHub](https://img.shields.io/github/followers/phudigital?style=social&label=Follow)](https://github.com/phudigital)
 
 <br/>
-</div>
 
-<br/><br/>
-
-<table width="100%">
+<table width="90%">
   <tr>
     <td width="50%">
       <a href="https://360vr.com.vn">
-        <img src="assets/images/360vr-logo.png" width="100" align="left" style="margin-right: 15px;" alt="360VR Vietnam"/>
+        <img src="assets/images/360vr-logo.png" width="80" align="left" style="margin-right: 15px;" alt="360VR Vietnam"/>
       </a>
       <b><a href="https://360vr.com.vn">360VR Vietnam</a></b><br>
       Virtual Tour Platform<br>
@@ -27,7 +24,7 @@
     </td>
     <td width="50%">
        <a href="https://pdl.vn">
-         <img src="assets/images/pdl-logo.png" width="100" align="left" style="margin-right: 15px;" alt="PDL Solutions"/>
+         <img src="assets/images/pdl-logo.png" width="80" align="left" style="margin-right: 15px;" alt="PDL Solutions"/>
        </a>
        <b><a href="https://pdl.vn">PDL Solutions</a></b><br>
        Digital Agency<br>
@@ -35,6 +32,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
