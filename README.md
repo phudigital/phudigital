@@ -1,23 +1,20 @@
+# 👋 Hi, I'm **Phạm Phú** (Phú Digital)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0072FF&center=true&vCenter=true&width=600&lines=Virtual+Tour+Specialist+%F0%9F%8C%90;PPC+Marketing+Expert+%F0%9F%8E%AF;Solo+Entrepreneur+%F0%9F%92%BB)](https://git.io/typing-svg)
+
 <div align="center">
-
-![Header](<https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0072ff,00c6ff,7b4397,dc2430&height=250&section=header&text=Phạm%20Phú%20(Phú%20Digital)&fontSize=40&fontAlign=50&fontAlignY=35&descAlign=50&descAlignY=55&animation=fadeIn&fontColor=ffffff>)
-
-  <div style="margin-top: -30px;">
-    <img src="assets/images/pdl-logo.png" height="50" alt="PDL Solutions" style="margin-right: 15px"/>
-    <img src="assets/images/360vr-logo.png" height="50" alt="360VR Vietnam"/>
-  </div>
-
-  <br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0072FF&center=true&vCenter=true&width=600&lines=Virtual+Tour+Specialist+%F0%9F%8C%90;PPC+Marketing+Expert+%F0%9F%8E%AF;Solo+Entrepreneur+%F0%9F%92%BB)](https://git.io/typing-svg)
-
-  <br/>
 
 [![Website](https://img.shields.io/badge/Website-pdl.vn-0072ff?style=flat-square&logo=google-chrome&logoColor=white)](https://pdl.vn)
 [![Website](https://img.shields.io/badge/Website-360vr.com.vn-7b4397?style=flat-square&logo=google-chrome&logoColor=white)](https://360vr.com.vn)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/ptpmkt/)
 [![Email](https://img.shields.io/badge/Email-phu@pdl.vn-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:phu@pdl.vn)
 [![GitHub](https://img.shields.io/github/followers/phudigital?style=social&label=Follow)](https://github.com/phudigital)
+
+<br/><br/>
+
+| <a href="https://360vr.com.vn"><img src="assets/images/360vr-logo.png" width="150" alt="360VR Vietnam"/></a> | <a href="https://pdl.vn"><img src="assets/images/pdl-logo.png" width="150" alt="PDL Solutions"/></a> |
+| :----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
+|            **[Virtual Tour Solutions](https://360vr.com.vn)**<br>360° VR • Web/App • 3D Scanning             |          **[Digital Marketing Agency](https://pdl.vn)**<br>PPC Ads • Web Design • Branding           |
 
 </div>
 
