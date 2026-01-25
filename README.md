@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Phạm Phú** (Phú Digital)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Virtual+Tour+Specialist+%F0%9F%8C%90;PPC+Marketing+Expert+%F0%9F%8E%AF;Solo+Entrepreneur+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0072FF&center=true&vCenter=true&width=600&lines=Virtual+Tour+Specialist+%F0%9F%8C%90;PPC+Marketing+Expert+%F0%9F%8E%AF;Solo+Entrepreneur+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -50,6 +50,6 @@ I am a **Solo Entrepreneur** passionate about combining **Technology** and **Mar
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=phudigital&color=2E9EF7&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=phudigital&color=0072FF&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
