@@ -1,0 +1,366 @@
+:root {
+  --bg-color: #050510;
+  --text-color: #ffffff;
+  --text-secondary: #94a3b8;
+
+  /* PDL Colors - Cyber Blue/Cyan */
+  --pdl-primary: #0072ff;
+  --pdl-secondary: #00c6ff;
+  --pdl-glow: rgba(0, 198, 255, 0.5);
+
+  /* 360VR Colors - Future Purple/Pink */
+  --vr-primary: #7b4397;
+  --vr-secondary: #dc2430;
+  --vr-glow: rgba(220, 36, 48, 0.5);
+
+  --card-bg: rgba(255, 255, 255, 0.05);
+  --card-border: rgba(255, 255, 255, 0.1);
+  --glass-blur: 20px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  line-height: 1.6;
+  overflow-x: hidden;
+  min-height: 100vh;
+}
+
+/* Background Animation */
+.background-animation {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background:
+    radial-gradient(
+      circle at 10% 20%,
+      rgba(0, 114, 255, 0.15) 0%,
+      transparent 40%
+    ),
+    radial-gradient(
+      circle at 90% 80%,
+      rgba(123, 67, 151, 0.15) 0%,
+      transparent 40%
+    );
+  animation: bgPulse 10s ease-in-out infinite alternate;
+}
+
+@keyframes bgPulse {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.1);
+  }
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* Header */
+.main-header {
+  text-align: center;
+  margin-bottom: 4rem;
+  padding-top: 2rem;
+}
+
+.main-header h1 {
+  font-family: "Outfit", sans-serif;
+  font-size: 3.5rem;
+  font-weight: 800;
+  background: linear-gradient(135deg, #fff 0%, #cbd5e1 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 1rem;
+  letter-spacing: -0.02em;
+}
+
+.subtitle {
+  font-size: 1.25rem;
+  color: var(--text-secondary);
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* Services Grid */
+.services-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2.5rem;
+}
+
+@media (min-width: 900px) {
+  .services-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* Service Card */
+.service-card {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 24px;
+  padding: 2.5rem;
+  position: relative;
+  overflow: hidden;
+  transition:
+    transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275),
+    box-shadow 0.4s ease;
+  backdrop-filter: blur(var(--glass-blur));
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.service-card:hover {
+  transform: translateY(-10px);
+}
+
+/* VR Card Styles */
+.vr-card:hover {
+  box-shadow: 0 20px 40px -10px rgba(123, 67, 151, 0.3);
+  border-color: rgba(220, 36, 48, 0.3);
+}
+
+.vr-card .card-visual {
+  background: radial-gradient(
+    circle at top right,
+    var(--vr-secondary),
+    transparent 70%
+  );
+  opacity: 0.1;
+  position: absolute;
+  top: -50%;
+  right: -50%;
+  width: 100%;
+  height: 100%;
+  transition: opacity 0.5s ease;
+}
+
+.vr-card:hover .card-visual {
+  opacity: 0.2;
+}
+
+.vr-btn {
+  background: linear-gradient(
+    135deg,
+    var(--vr-primary) 0%,
+    var(--vr-secondary) 100%
+  );
+  box-shadow: 0 4px 15px var(--vr-glow);
+}
+
+/* PDL Card Styles */
+.pdl-card:hover {
+  box-shadow: 0 20px 40px -10px rgba(0, 114, 255, 0.3);
+  border-color: rgba(0, 198, 255, 0.3);
+}
+
+.pdl-card .card-visual {
+  background: radial-gradient(
+    circle at top right,
+    var(--pdl-secondary),
+    transparent 70%
+  );
+  opacity: 0.1;
+  position: absolute;
+  top: -50%;
+  right: -50%;
+  width: 100%;
+  height: 100%;
+  transition: opacity 0.5s ease;
+}
+
+.pdl-card:hover .card-visual {
+  opacity: 0.2;
+}
+
+.pdl-btn {
+  background: linear-gradient(
+    135deg,
+    var(--pdl-primary) 0%,
+    var(--pdl-secondary) 100%
+  );
+  box-shadow: 0 4px 15px var(--pdl-glow);
+}
+
+/* Card Content */
+.card-content {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.logo-wrapper {
+  height: 60px;
+  margin-bottom: 2rem;
+  display: flex;
+  align-items: center;
+}
+
+.brand-logo {
+  max-height: 100%;
+  max-width: 160px;
+  object-fit: contain;
+  filter: brightness(0) invert(1); /* Start with white logo if possible, or adjust based on logo color */
+}
+
+/* Since the user provided specific colored logos, we should preserve their color or make them look good on dark.
+   Let's try to remove the filter or use a specific background if needed.
+   Actually, the user said "màu sắc theo tông màu của logo".
+   Let's assume the logos are readable (PNGs). If they are dark text, I might need a white bg bubble, but let's try leaving them natural first.
+*/
+.brand-logo {
+  filter: none; /* Reset filter */
+}
+
+.service-card h2 {
+  font-family: "Outfit", sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.service-desc {
+  color: var(--text-secondary);
+  margin-bottom: 2rem;
+  font-size: 1.1rem;
+}
+
+.feature-list {
+  list-style: none;
+  margin-bottom: 2.5rem;
+  flex-grow: 1;
+}
+
+.feature-list li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.75rem;
+  color: #e2e8f0;
+}
+
+.feature-list li .icon {
+  font-family:
+    "Material Icons", sans-serif; /* Placeholder if using font icons, but let's use text/bullets */
+  width: 24px;
+  height: 24px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+  font-size: 10px;
+  color: var(--text-secondary);
+  /* Simple replacement for icon */
+  content: "•";
+}
+
+.cta-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 1rem 2rem;
+  border-radius: 50px;
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+  transition:
+    transform 0.2s,
+    box-shadow 0.2s;
+  margin-top: auto;
+}
+
+.cta-button:hover {
+  transform: scale(1.05);
+}
+
+/* Footer */
+.main-footer {
+  text-align: center;
+  margin-top: 4rem;
+  color: var(--text-secondary);
+  border-top: 1px solid var(--card-border);
+  padding-top: 2rem;
+}
+
+.github-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--text-color);
+  text-decoration: none;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.05);
+  transition: background 0.2s;
+}
+
+.github-link:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+/* Animations */
+.fade-in-up {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeInUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.delay-1 {
+  animation-delay: 0.1s;
+}
+.delay-2 {
+  animation-delay: 0.2s;
+}
+.delay-3 {
+  animation-delay: 0.3s;
+}
+.delay-4 {
+  animation-delay: 0.4s;
+}
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Mobile Adjustments */
+@media (max-width: 600px) {
+  .main-header h1 {
+    font-size: 2.5rem;
+  }
+
+  .container {
+    padding: 1rem;
+  }
+
+  .service-card {
+    padding: 1.5rem;
+  }
+}
