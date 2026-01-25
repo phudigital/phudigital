@@ -5,6 +5,7 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-pdl.vn-0072ff?style=flat-square&logo=google-chrome&logoColor=white)](https://pdl.vn)
+[![Website](https://img.shields.io/badge/Website-360vr.com.vn-7b4397?style=flat-square&logo=google-chrome&logoColor=white)](https://360vr.com.vn)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/ptpmkt/)
 [![Email](https://img.shields.io/badge/Email-phu@pdl.vn-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:phu@pdl.vn)
 [![GitHub](https://img.shields.io/github/followers/phudigital?style=social&label=Follow)](https://github.com/phudigital)
@@ -18,7 +19,7 @@
 I am a **Solo Entrepreneur** passionate about combining **Technology** and **Marketing** to build smart solutions.
 
 - 🌐 **Virtual Tour Solutions**: 360° Photography, Flycam 360°, Web 360°, 3D Tour.
-- 🎯 **PPC Marketing**: Google Ads (Search, GDN, Video, Maps), Facebook Ads, TikTok Ads.
+- 🎯 **PPC Marketing**: Google Ads (Search, GDN, Video, Maps), Facebook Ads, Zalo Ads.
 - 💻 **Web Development**: WordPress High Performance, Vibe Coding, Technical SEO.
 - 🤖 **Automation**: AI Workflows, Google Ads API Integration.
 
