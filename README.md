@@ -1,13 +1,13 @@
 # 👋 Hi, I'm **Phạm Phú** (Phú Digital)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0072FF&center=true&vCenter=true&width=600&lines=Virtual+Tour+Specialist+%F0%9F%8C%90;PPC+Marketing+Expert+%F0%9F%8E%AF;Solo+Entrepreneur+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Virtual+Tour+Specialist+%F0%9F%8C%90;PPC+Marketing+Expert+%F0%9F%8E%AF;Solo+Entrepreneur+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-pdl.vn-0072ff?style=flat-square&logo=google-chrome&logoColor=white)](https://pdl.vn)
-[![Website](https://img.shields.io/badge/Website-360vr.com.vn-7b4397?style=flat-square&logo=google-chrome&logoColor=white)](https://360vr.com.vn)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/ptpmkt/)
-[![Email](https://img.shields.io/badge/Email-phu@pdl.vn-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:phu@pdl.vn)
+[![Website](https://img.shields.io/badge/Website-pdl.vn-00C6FF?style=flat-square&logo=google-chrome&logoColor=white&labelColor=0072FF)](https://pdl.vn)
+[![Website](https://img.shields.io/badge/Website-360vr.com.vn-DC2430?style=flat-square&logo=google-chrome&logoColor=white&labelColor=7B4397)](https://360vr.com.vn)
+[![Facebook](https://img.shields.io/badge/Facebook-0072FF?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/ptpmkt/)
+[![Email](https://img.shields.io/badge/Email-phu@pdl.vn-DC2430?style=flat-square&logo=gmail&logoColor=white)](mailto:phu@pdl.vn)
 [![GitHub](https://img.shields.io/github/followers/phudigital?style=social&label=Follow)](https://github.com/phudigital)
 
 </div>
@@ -41,15 +41,15 @@ I am a **Solo Entrepreneur** passionate about combining **Technology** and **Mar
 
 | Project / Service                                       | Description                                             |                                                                           Status / Type                                                                            |
 | :------------------------------------------------------ | :------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **[PDL Solutions](https://pdl.vn)**                     | Digital Marketing Agency & Web Development              |        [![PDL](https://img.shields.io/website?url=https%3A%2F%2Fpdl.vn&up_message=Online&style=flat-square&labelColor=0072ff&color=00c6ff)](https://pdl.vn)        |
-| **[360VR Vietnam](https://360vr.com.vn)**               | Virtual Tour Platform for Real Estate & Business        | [![360VR](https://img.shields.io/website?url=https%3A%2F%2F360vr.com.vn&up_message=Online&style=flat-square&labelColor=7b4397&color=dc2430)](https://360vr.com.vn) |
-| **[Google Ads Toolkit](https://github.com/phudigital)** | WP Plugin for Click Fraud Prevention & Ads Optimization |          [![Stars](https://img.shields.io/github/stars/phudigital/phudigital?style=flat-square&label=Stars&color=yellow)](https://github.com/phudigital)           |
-| **[Phu Digital](https://phudigital.com)**               | Personal Portfolio & Tech Blog                          |      [![Last Commit](https://img.shields.io/github/last-commit/phudigital/phudigital?style=flat-square&color=blue)](https://github.com/phudigital/phudigital)      |
+| **[PDL Solutions](https://pdl.vn)**                     | Digital Marketing Agency & Web Development              |        [![PDL](https://img.shields.io/website?url=https%3A%2F%2Fpdl.vn&up_message=Online&style=flat-square&labelColor=0072FF&color=00C6FF)](https://pdl.vn)        |
+| **[360VR Vietnam](https://360vr.com.vn)**               | Virtual Tour Platform for Real Estate & Business        | [![360VR](https://img.shields.io/website?url=https%3A%2F%2F360vr.com.vn&up_message=Online&style=flat-square&labelColor=7B4397&color=DC2430)](https://360vr.com.vn) |
+| **[Google Ads Toolkit](https://github.com/phudigital)** | WP Plugin for Click Fraud Prevention & Ads Optimization |          [![Stars](https://img.shields.io/github/stars/phudigital/phudigital?style=flat-square&label=Stars&color=00C6FF&labelColor=0072FF)](https://github.com/phudigital)           |
+| **[Phu Digital](https://phudigital.com)**               | Personal Portfolio & Tech Blog                          |      [![Last Commit](https://img.shields.io/github/last-commit/phudigital/phudigital?style=flat-square&color=7B4397&labelColor=DC2430)](https://github.com/phudigital/phudigital)      |
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=phudigital&color=0072FF&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=phudigital&color=00C6FF&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
