@@ -24,7 +24,7 @@
     </td>
     <td width="50%">
        <a href="https://pdl.vn">
-         <img src="assets/images/pdl-logo.png" width="80" align="left" style="margin-right: 15px;" alt="PDL Solutions"/>
+         <img src="assets/images/pdl-logo.png" width="60" align="left" style="margin-right: 15px;" alt="PDL Solutions"/>
        </a>
        <b><a href="https://pdl.vn">PDL Solutions</a></b>
        <br>Digital Agency | PPC Ads • Web • Design
