@@ -19,7 +19,7 @@
         <img src="assets/images/360vr-logo.png" width="80" align="left" style="margin-right: 15px;" alt="360VR Vietnam"/>
       </a>
       <b><a href="https://360vr.com.vn">360VR Vietnam</a></b>
-      Virtual Tour Platform
+      </brVirtual Tour Platform
       | 360 Flycam
     </td>
     <td width="50%">
@@ -27,7 +27,7 @@
          <img src="assets/images/pdl-logo.png" width="80" align="left" style="margin-right: 15px;" alt="PDL Solutions"/>
        </a>
        <b><a href="https://pdl.vn">PDL Solutions</a></b>
-       Digital Agency | PPC Ads • Web • Design
+       </br>Digital Agency | PPC Ads • Web • Design
     </td>
   </tr>
 </table>
