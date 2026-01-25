@@ -16,9 +16,9 @@
   <tr>
     <td width="50%">
       <a href="https://360vr.com.vn">
-        <img src="assets/images/360vr-logo.png" height="60" align="left" style="margin-right: 15px;" alt="360VR Vietnam"/>
+        <img src="assets/images/360vr-logo.png" height="60" align="left" style="margin-right: 15px;" alt="360VR Tour"/>
       </a>
-      <b><a href="https://360vr.com.vn">360VR Vietnam</a></b>
+      <b><a href="https://360vr.com.vn">360VR.com.vn</a></b>
       <br>Virtual Tour Platform
       | 360 Flycam Tour
     </td>
